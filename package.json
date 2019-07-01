@@ -1,0 +1,21 @@
+{
+  "name": "asphalt",
+  "displayName": "Asphalt",
+  "description": "Asphalt - A dark theme with pastel colors.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.35.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Asphalt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/asphalt.json"
+      }
+    ]
+  }
+}
