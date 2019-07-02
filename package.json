@@ -7,7 +7,7 @@
   },
   "displayName": "Asphalt",
   "description": "Asphalt - A dark theme with pastel colors.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.35.0"
   },
@@ -22,5 +22,10 @@
         "path": "./themes/asphalt.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "c759942c-c411-4d8d-982a-3dc50800f50f",
+    "publisherDisplayName": "tlundgren",
+    "publisherId": "d50f379b-7d0d-48e0-bc45-596b30d6e8bf"
   }
 }

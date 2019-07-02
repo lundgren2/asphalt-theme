@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+- Change variable color to: `#EEEEEE`
+
 ## 1.0.0
 
 Initial release
