@@ -1,5 +1,10 @@
 {
   "name": "asphalt",
+  "publisher": "tlundgren",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lundgren2/asphalt-theme/"
+  },
   "displayName": "Asphalt",
   "description": "Asphalt - A dark theme with pastel colors.",
   "version": "1.0.0",

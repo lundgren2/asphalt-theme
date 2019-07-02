@@ -13,6 +13,11 @@ Asphalt - A dark theme with pastel colors.
 3. Write `asphalt-theme`
 4. Select it or press Enter to install
 
+## Screenshot
+
+<p align="center"><img width="800px" src="https://raw.githubusercontent.com/lundgren2/asphalt-theme/master/screenshot.png"></p>
+
+
 ## License
 
 [MIT License](https://github.com/lundgren2/asphalt-theme/blob/master/LICENCE.md)
