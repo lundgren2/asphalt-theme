@@ -7,7 +7,7 @@
   },
   "displayName": "Asphalt",
   "description": "Asphalt - A dark theme with pastel colors.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.20.0"
   },
