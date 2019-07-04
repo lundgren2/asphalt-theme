@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+
+- Change engine version to `^1.20.0`
+
 ## 1.0.1
 
 - Change variable color to: `#EEEEEE`
